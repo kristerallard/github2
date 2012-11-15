@@ -1,4 +1,3 @@
-
 public class Github2 {
 
 	/**
@@ -7,8 +6,8 @@ public class Github2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Jag är ett skittråkigt githubtest som inte gör något");
-		
+		System.out.println("Jag ï¿½r ett skittrï¿½kigt githubtest som inte gï¿½r nï¿½got");
+		System.out.println("Github e trÃ¥Ã¥Ã¥kit");
 	}
 
 }
